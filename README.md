@@ -1,4 +1,4 @@
-# JSP_StreetAnimalFinder
+# ✔JSP_StreetAnimalFinder✔
 💘StreetAnimalFinder JSP 프로젝트 By 일조가일냈조💘
 <br><br>
 ✨StreetAnimalFinder 기획의도 및 배경
